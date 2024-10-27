@@ -39,3 +39,5 @@
 /Users/two-mac/Documents/computing/angular/workShop/ControllerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/two-mac/Documents/computing/angular/workShop/ControllerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/two-mac/Documents/computing/angular/workShop/ControllerAPI/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+/Users/two-mac/Documents/computing/angular/workShop/ControllerAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/two-mac/Documents/computing/angular/workShop/ControllerAPI/obj/Debug/net8.0/ControllerAPI.sourcelink.json
